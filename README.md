@@ -8,7 +8,7 @@
     2. [GIT colloboration](./git/team-responsibility.md)
 - Scrum
     1. [Scrum Ethics](./scrum/scrum-ethics.md)
-    2. [Working software over comprehensive documentation](./scrum/working-software-over-comprehensive-documentation.md)
-    3. [Customer collaboration over contract negotiation](./scrum/customer-collaboration-over-contract-negotiation.md)
-    4. [Individuals and interactions over processes and tools](./scrum/individuals-and-interactions-over-processes-and-tools.md)
-    5. [Responding to Change over Following a Plan](./scrum/responding-to-change-over-following-a-plan.md)
+    2. [Working software over comprehensive documentation](./scrum/working.md)
+    3. [Customer collaboration over contract negotiation](./scrum/customer.md)
+    4. [Individuals and interactions over processes and tools](./scrum/individuals.md)
+    5. [Responding to Change over Following a Plan](./scrum/responding.md)
