@@ -1,13 +1,3 @@
----
-layout: post
-title: My Reflection On Learning Scrum - Part III
-bigimg: /img/3.jpg
-categories: blogging
-tags: blogging agile scrum
-comments: false
-analytics: false
----
-
 # Customer collaboration over contract negotiation
 
 

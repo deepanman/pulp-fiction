@@ -1,13 +1,3 @@
----
-layout: post
-title: My Reflection On Learning Scrum - Part IV
-bigimg: /img/4.jpg
-categories: blogging
-tags: blogging agile scrum
-comments: false
-analytics: false
----
-
 # Responding to Change over Following a Plan
 
 ### *Software development planning boils down to these factors*
