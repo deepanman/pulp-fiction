@@ -1,3 +1,5 @@
+# Coding Practices
+
 > Programs are meant to be read by humans and only incidentally for computers to execute #Donald Knuth, Turing award
 
 ## Steve's point of view 

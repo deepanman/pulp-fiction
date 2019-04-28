@@ -1,7 +1,7 @@
 # Table of contents
 
 - Dev Practices
-    1. [SLF4J Loging Basics](./code/java-logging-slf4j.md)
+    1. [SLF4J Loging Basics](./code/java-logging-slf.md)
     2. [Coding Practices](./code/coding-practices.md)
 - Git
     1. [GIT History](./git/history.md)

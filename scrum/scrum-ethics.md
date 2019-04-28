@@ -1,4 +1,4 @@
-# Scrum Ethics 
+# Scrum Ethics
 
 This is mostly from the develpers point of view, there could be a consolidated document/checklist , which covers the responsibility of the team , including Scrum Master and Product Owner.
 
