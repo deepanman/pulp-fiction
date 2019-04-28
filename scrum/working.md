@@ -65,12 +65,5 @@ but in traditional methods even if the team says 75% is done ,
 it won't be ready to go live until the rest 25% is done.  
 This is how the agile differs from traditional one.
 
-## 5 Why technique:
-
-Create necessary documents :), But how we will know what is necessary ? . 
-we cannot have hard and fast rules on what documents needed.It differs from case to case , 
-differs across organisation and projects. But what we can do is to try the 5 why technique , 
-ask all the stakeholders involved to see if that document is really necessary , 
-whether it adds any value and decide based on it. I will add an example for this in the next post.
 
 to be continued..
