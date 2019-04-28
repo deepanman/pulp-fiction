@@ -1,12 +1,4 @@
----
-layout: post
-title: My Reflection On Learning Scrum - Part II
-bigimg: /img/2.png
-categories: blogging
-tags: blogging agile scrum
-comments: false
-analytics: false
----
+# Working software over comprehensive documentation:
 
 *Many of us has this thinking , "I am doing agile , I will not do plans or documents ,etc ...."*
 
@@ -29,7 +21,6 @@ We should also give attention to the process and tools.
 
 <br>
 
-# Working software over comprehensive documentation:
 
 Oh! yes we all know that in scrum we deliver the working software every sprint , also we know the advantages of it. We shall see  how to achieve it .Developers are mostly agile and cross functional. But many times the leadership team wont be cross functional , It is always good to train  the leadership team on the agile ways of working.
 

@@ -1,15 +1,6 @@
----
-layout: post
-title: My Reflection On Learning Scrum - Part I
-subtitle: Individuals and interactions over processes and tools
-bigimg: /img/1.jpg
-categories: blogging
-tags: blogging agile scrum
-comments: false
-analytics: false
----
+# Individuals and interactions over processes and tools
 
-I am a certified Scrum Master from Scrum Alliance, I have been working on agile based project (Scrum) as a developer,  I now know what developers needs to be productive and to be in a happy bubble . These are not something new , it is just aggregation of my learning from quite a long list of resources like talks of Martin Fowler , Jeff  Sutherland, Jez humble etc.. I am not going to bore you with the same content which is already there in the scrum guide.  Its all about the way I see scrum . Hope everybody enjoys reading it.  
+I have been working on agile based project (Scrum) as a developer,  I now know what developers needs to be productive and to be in a happy bubble . These are not something new , it is just aggregation of my learning from quite a long list of resources like talks of Martin Fowler , Jeff  Sutherland, Jez humble etc.. I am not going to bore you with the same content which is already there in the scrum guide.  Its all about the way I see scrum . Hope everybody enjoys reading it.  
 
  
 
