@@ -8,9 +8,9 @@
 
 > “With great power comes great responsibility.” – Spider-Man… Well, the viceversa is also true. With great responsibility, you gain more power!
 
-- The Brimma Tribe is responsible and accountable for what goes into the git repo. Every developer in the tribe needs to understand the needs and the importance of the workflow that is followed. 
+- Team is responsible and accountable for what goes into the git repo. Every developer in the tribe needs to understand the needs and the importance of the workflow that is followed. 
 
-- Just because some of the steps are painful, you should not skip it. Let’s figure out ways to automate the ‘painful’ steps rather than ignoring them.
+- Just because some of the steps are painful, one should not skip it. We should figure out ways to automate the ‘painful’ steps rather than ignoring them.
 
 > Developer testing is an important step towards accountability. It gives developers a way to demonstrate the quality of the software they produce. - Kent Beck
 
@@ -37,4 +37,4 @@
 
 Mostly, these pointers are better learnt on the job through peers rather than being taught in a classroom. These should be the principles that are passed on from tribe to a new tribe member.
 
-I believe, principles drive culture and culture drives the values.
+I believe, principles drive values and values drives the culture.
