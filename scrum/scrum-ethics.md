@@ -20,7 +20,6 @@ C - Courage
 ## Sprint Planning
 
 - Never assume any of the requirements, discuss in details w.r.t persona
-- Never miss even one percent of clarity in the requirement.
 - Make sure to understand the vision and mission from the product owner
 - Have a clear understanding of goal of the sprint
 - Have a good idea on estimation (Software Estimation Demistifying the black art - Steve McConnel) is a great book on estimation
