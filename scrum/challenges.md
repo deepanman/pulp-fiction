@@ -34,7 +34,7 @@ with the number of post likes and other comments.
 
 ### Retrospection
 
-One finest motivation factor which observed is the retrospection meeting.
+One of the finest motivation factor which I observed is the retrospection meeting.
 It lifts the morale of the team.
 
 #### Agenda of the Retrospect meeting
