@@ -12,3 +12,4 @@
     3. [Customer collaboration over contract negotiation](./scrum/customer.md)
     4. [Individuals and interactions over processes and tools](./scrum/individuals.md)
     5. [Responding to Change over Following a Plan](./scrum/responding.md)
+    6. [Challenges](./scrum/challenges.md)
