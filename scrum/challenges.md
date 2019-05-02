@@ -41,14 +41,16 @@ It lifts the morale of the team.
 
 1. Starting with appreciating each and every good work done by the team.
 2. Discuss about things that could have done better.
-It had a very huge imapact.
+
+> It had a very huge imapact.
 
 ### Review Meeting
 
-Client's feedback and requirement changes always add a mixed responses. The clients attention appreciation & feedback had always kept the team high.
-Sometimes these reviews and feedback loop missed in the lifecycle and it shakes the productivity of the team.
+Client's feedback and requirement changes always add a mixed responses. But mostly the client's attention,appreciation & feedback had always kept the team high.
 
-Recently read a chapter in "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" which was related to feedback. Where the author points that how positive attention improves the productivity of the team.
+> When these reviews and feedback loop missed in the lifecycle , it shakes the productivity & morale of the team.
+
+> Recently read a chapter in "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" which was related to feedback. Where the author points that how positive attention improves the productivity of the team.
 
 Which is something I had seen it in my experience. The retrospections & review did the magic.
 
