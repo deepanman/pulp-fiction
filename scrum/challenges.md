@@ -23,7 +23,7 @@ Many times, we work on something that is completly new from our past experiences
 
 ## 4th challenge - Pressure
 
-The biggest problem with millienials is that , the task board stifles innovation, experimentaion and out of the box
+The biggest challenge for millienials is that , the task board stifles innovation, experimentaion and out of the box
 thinking. Task board now has refocussed thoughts on how to get rid of the task in the shortest time possible, the card
 on the board is a constant reminder to get it to done bucket
 
@@ -43,8 +43,15 @@ It lifts the morale of the team.
 2. Discuss about things that could have done better.
 It had a very huge imapact.
 
+### Review Meeting
+
+Client's feedback and requirement changes always add a mixed responses. The clients attention appreciation & feedback had always kept the team high.
+Sometimes these reviews and feedback loop missed in the lifecycle and it shakes the productivity of the team.
+
 Recently read a chapter in "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" which was related to feedback. Where the author points that how positive attention improves the productivity of the team.
 
-Which is something I had seen it in my experience. The retrospections did the magic.
+Which is something I had seen it in my experience. The retrospections & review did the magic.
 
-But sometimes team feels it as a mundane stuff.
+But sometimes it turns out as a mundane stuff.
+
+> Opinions expressed are solely my own and do not express the views or opinions of my employer.
