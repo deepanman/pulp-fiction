@@ -2,16 +2,16 @@
 
 ## 1st challenge - Software quality
 
-- One thing and the most important thing, at the end of the sprint is to delivere the high quality/production ready.
-- Many times I had seen this is missed and later the issues comes & bites us back.
+- One thing and the most important thing, at the end of the sprint is to deliver the high quality/production ready.
+- Most of the times this is missed and later the issues comes & bites us back.
 
 ## 2nd challenge - Commitment
 
-- With my experience this seems to be a challenge when choosing between these priorites
+- With my experience there is a constant challenge when choosing between these priorites
   - Features
   - Schedule
   - Quality
-- Which reminds me the areas that influence the Project Success - From Code Complete course in construx
+- Which reminds the areas that influence the Project Success - From Code Complete course in construx
   - First is all about the requirement gathering
   - Second reason project planning
   - Third reason - code quality
@@ -57,3 +57,4 @@ Which is something I had seen it in my experience. The retrospections & review d
 But sometimes it turns out as a mundane stuff.
 
 > Opinions expressed are solely my own and do not express the views or opinions of my employer.
+> It's a collective work done with my team.
