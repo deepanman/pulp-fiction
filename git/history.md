@@ -32,7 +32,7 @@ BitMover, the company that makes BitKeeper, on license violation, they revoked a
 
 ## **On 7 April 2005**
 
-- He replies to Chris Wedgwood that monotone wasn't performant and he created the tool, GIT and asks for support
+- He replies to Chris Wedgwood that monotone wasn't performant and he created the tool, GIT and asks for support.
   - [Mail Archive](https://lwn.net/Articles/131312/)
 
 > The first one to send me the changelog tree of sparse-git (and a tool to commit and push/pull further changes) gets a gold star, and an honorable
