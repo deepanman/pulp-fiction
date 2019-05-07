@@ -32,7 +32,7 @@ BitMover, the company that makes BitKeeper, on license violation, they revoked a
 
 ## **On 7 April 2005**
 
-- He replies to Chris Wedgwood that monotone wasn't performant and he created the tool, GIT,
+- He replies to Chris Wedgwood that monotone wasn't performant and he created the tool, GIT and asks for support
   - [Mail Archive](https://lwn.net/Articles/131312/)
 
 > The first one to send me the changelog tree of sparse-git (and a tool to commit and push/pull further changes) gets a gold star, and an honorable
@@ -42,6 +42,7 @@ I've worked on it (and little else) over the last two days. Time for somebody el
 ## **On 8 April 2005**
 
 > The git could commit itself using git.
+
 - [First git commit](https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290)
 
 ## GIT meaning
