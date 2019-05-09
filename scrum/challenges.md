@@ -74,7 +74,7 @@ the author points out that its not the feedback, it is the positive attention th
 This is something I had seen it in my eyes. The attention the stakeholders give to their product and team does the magic.
 The review meeting had enabled it.
 
-But sometimes it turns out as a mundane stuff.
+But sometimes it turns out as a mundane stuff. Looks like it needs lot of attention & experience to make the spell influence good.
 
 -------
 
