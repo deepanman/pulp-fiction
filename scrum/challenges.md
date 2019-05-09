@@ -4,8 +4,8 @@
 
 - The most important one is to deliver the high quality/production ready deliverables at the end of the each sprint
 - Most of the times this is missed and it leads to increase in technical debt.
-- Which also slows down the productivity
-- Leads to the maintainence nightmare.
+- This also slows down the productivity
+- At a later point this leads to the maintainence nightmare.
 ![alt](../images/tech-debt.png)
 
 ## 2nd challenge - Commitment
@@ -52,12 +52,12 @@ One of the finest motivation factor which I observed is the retrospection meetin
 It lifts the morale of the team.
 
 1. Appreciate each and every good work done by the team.
-    - Everybody contributes & participates without having fear/worrying about mising how to showcase his/work
-    - Easily acheives team work selfless
+    - Everybody contributes & participates without having fear/worrying about mising how to showcase his/her work
+    - Enables team to work selfless
 2. Discuss about things that could have been done better.
-    - It serves has a constant reminder for everyone on the team to identify oppurtunities to do better.
+    - It serves as a constant reminder for everyone on the team to identify oppurtunities to do better.
     - Helps to highlight the mistakes of the team.
-    - many times teammates do voluntarily , they themselves identify their mistakes & aplogizes.
+    - Teammates voluntarily identify their mistakes.
     - Increases transparency
 
 > It had a very huge imapact.
@@ -71,8 +71,8 @@ Client's feedback and requirement changes always add a mixed responses. But most
 > Recently read a book "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" In chapter#5 Lie #5: People need feedback,
 the author points out that its not the feedback, it is the positive attention that improves the productivity of the team.
 
-Which is something I had seen it in my eyes. The attention the stakeholders give to their product and team does the magic.
-The review meeting had enabled this.
+This is something I had seen it in my eyes. The attention the stakeholders give to their product and team does the magic.
+The review meeting had enabled it.
 
 But sometimes it turns out as a mundane stuff.
 
