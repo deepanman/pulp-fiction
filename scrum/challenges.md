@@ -2,20 +2,28 @@
 
 ## 1st challenge - Software quality
 
-- One thing and the most important thing, at the end of the sprint is to deliver the high quality/production ready deliverables.
-- Most of the times this is missed and later the issues comes & bites us back.
+- The most important one is to deliver the high quality/production ready deliverables at the end of the each sprint
+- Most of the times this is missed and it leads to increase in technical debt.
+- Which also slows down the productivity
+- Leads to the maintainence nightmare.
+![alt](../images/tech-debt.png)
 
 ## 2nd challenge - Commitment
 
-- With my experience there is a constant challenge when choosing between these priorites
+- There is a constant challenge when choosing between these priorities
   - Features
   - Schedule
   - Quality
-- Which reminds the areas that influence the Project Success - From Code Complete course in construx
-  - First is all about the requirement gathering
-  - Second reason project planning
-  - Third reason - code quality
-- how to choose between features/schedule/quality to deliver a bug free working software is always a constant challenge.
+
+This reminds me the areas that influence the Project's Success - From Construx - Code Complete course
+
+- First is all about the requirement gathering
+- Second reason project planning
+- Third reason - code quality
+
+Commiting between features/schedule/quality to deliver a bug free working software is always a constant challenge.
+
+![tri](../images/tri.png)
 
 ## 3rd challenge - Estimation
 
@@ -27,32 +35,48 @@ The biggest challenge for millienials is that , the task board stifles innovatio
 thinking. Task board now has refocussed thoughts on how to get rid of the task in the shortest time possible, the card
 on the board is a constant reminder to get it to done bucket
 
-Like how Simon Sinek's says in one of the talk - how we are pulled towards the triggers of dopamine
-with the number of likes and other comments , which gives the feeling of reward.
+Like how Simon Sinek's says in one of the talk - how we are addicted to the triggers of dopamine
+with the number of likes and comments , which gives the feeling of reward.
 
-## 5th Challenge - Motivation factor
+## 5th challenge - Motivation
 
-### Retrospection
+### Retrospection & Review
+
+> The Magic Wand
+
+![wand](../images/wand.png)
+
+#### Retrospection
 
 One of the finest motivation factor which I observed is the retrospection meeting.
 It lifts the morale of the team.
 
-1. Starting with appreciating each and every good work done by the team. 
+1. Appreciate each and every good work done by the team.
+    - Everybody contributes & participates without having fear/worrying about mising how to showcase his/work
+    - Easily acheives team work selfless
 2. Discuss about things that could have been done better.
+    - It serves has a constant reminder for everyone on the team to identify oppurtunities to do better.
+    - Helps to highlight the mistakes of the team.
+    - many times teammates do voluntarily , they themselves identify their mistakes & aplogizes.
+    - Increases transparency
 
 > It had a very huge imapact.
 
-### Review Meeting
+#### Review Meeting
 
 Client's feedback and requirement changes always add a mixed responses. But mostly the client's attention,appreciation & feedback had always kept the team high.
 
 > When these reviews and feedback loop missed in the lifecycle , it shakes the productivity & morale of the team.
 
-> Recently read a chapter in "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" which was related to feedback. Where the author points that how positive attention improves the productivity of the team.
+> Recently read a book "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" In chapter#5 Lie #5: People need feedback,
+the author points out that its not the feedback, it is the positive attention that improves the productivity of the team.
 
-Which is something I had seen it in my experience. The retrospections & review did the magic.
+Which is something I had seen it in my eyes. The attention the stakeholders give to their product and team does the magic.
+The review meeting had enabled this.
 
 But sometimes it turns out as a mundane stuff.
+
+-------
 
 > Opinions expressed are solely my own and do not express the views or opinions of my employer.
 > It's a collective work.
