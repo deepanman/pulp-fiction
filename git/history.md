@@ -13,8 +13,9 @@ From 2002, Bitkeeper, a commercial SCM tool was used for kernel development,
 which was free to use for open source development.
 
 Three years down the line, one of the contributors, Andrew Tridgell, reverse engineered the bitkeeper protocols and tried to create a tool with a feature, which was something offered by bitkeeper for commercial licensing.
-[Linux weekly news](https://lwn.net/Articles/686986/)
-[Wiki](https://en.wikipedia.org/wiki/BitKeeper)
+
+- Ref: [Linux weekly news](https://lwn.net/Articles/686986/)
+- Ref: [Wiki](https://en.wikipedia.org/wiki/BitKeeper)
 
 BitMover, the company that makes BitKeeper, on license violation, they revoked access for all Linux users.
 
@@ -72,6 +73,6 @@ This is a stupid (but extremely fast) directory content manager. It doesn't do a
 
 Junio C Hamano now works at Google. He’s the maintainer of Git since 26 July 2005. Git 1.0 released in the same year’s December(2005).
 
-[New Git Maintainer](https://lwn.net/Articles/145123/)
+Ref: [New Git Maintainer](https://lwn.net/Articles/145123/)
 
 Linus Torvalds said in 2012 that one of his biggest successes was recognizing how good a developer Hamano was on Git, and trusting him to maintain it.
