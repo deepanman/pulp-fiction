@@ -1,4 +1,4 @@
-# Challenges
+# Challenges & Learnings
 
 ## 1st challenge - Software quality
 
@@ -19,7 +19,7 @@
 
 ## 3rd challenge - Estimation
 
-Many times, we work on something that is completly new from our past experiences, estimating those and adding to the task board adds lot of pressure.
+Many times, we work on something that is completly new from our past experiences, estimating those and adding to the task board always goes wrong.
 
 ## 4th challenge - Pressure
 
@@ -27,8 +27,8 @@ The biggest challenge for millienials is that , the task board stifles innovatio
 thinking. Task board now has refocussed thoughts on how to get rid of the task in the shortest time possible, the card
 on the board is a constant reminder to get it to done bucket
 
-Like how Simon Sinek's says in one of the talk - how the millienials are pulled towards the triggers of dopamine
-with the number of post likes and other comments.
+Like how Simon Sinek's says in one of the talk - how we are pulled towards the triggers of dopamine
+with the number of likes and other comments , which gives the feeling of reward.
 
 ## 5th Challenge Motivation factor
 
@@ -57,4 +57,4 @@ Which is something I had seen it in my experience. The retrospections & review d
 But sometimes it turns out as a mundane stuff.
 
 > Opinions expressed are solely my own and do not express the views or opinions of my employer.
-> It's a collective work done with my team.
+> It's a collective work.

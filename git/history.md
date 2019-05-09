@@ -46,6 +46,14 @@ I've worked on it (and little else) over the last two days. Time for somebody el
 
 - [First git commit](https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290)
 
+## New Git Maintainer
+
+Junio C Hamano now works at Google. He’s the maintainer of Git since 26 July 2005. Git 1.0 released in the same year’s December(2005).
+
+Ref: [New Git Maintainer](https://lwn.net/Articles/145123/)
+
+Linus Torvalds said in 2012 that one of his biggest successes was recognizing how good a developer Hamano was on Git, and trusting him to maintain it.
+
 ## GIT meaning
 
 From the GIT man page
@@ -68,11 +76,3 @@ What is GIT
 This is a stupid (but extremely fast) directory content manager. It doesn't do a whole lot, but what it—does—do well is track directory contents efficiently.
 
 ```
-
-## New Git Maintainer
-
-Junio C Hamano now works at Google. He’s the maintainer of Git since 26 July 2005. Git 1.0 released in the same year’s December(2005).
-
-Ref: [New Git Maintainer](https://lwn.net/Articles/145123/)
-
-Linus Torvalds said in 2012 that one of his biggest successes was recognizing how good a developer Hamano was on Git, and trusting him to maintain it.
