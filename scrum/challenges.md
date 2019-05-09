@@ -52,7 +52,7 @@ One of the finest motivation factor which I observed is the retrospection meetin
 It lifts the morale of the team.
 
 1. Appreciate each and every good work done by the team.
-    - Everybody contributes & participates without having fear/worrying about mising how to showcase his/her work
+    - Everybody contributes & participates without having fear/worrying about missing how to showcase his/her work
     - Enables team to work selfless
 2. Discuss about things that could have been done better.
     - It serves as a constant reminder for everyone on the team to identify oppurtunities to do better.
