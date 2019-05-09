@@ -1,4 +1,4 @@
-# Challenges & Learnings
+# Agile Challenges & Learnings
 
 ## 1st challenge - Software quality
 
@@ -19,7 +19,7 @@
 
 ## 3rd challenge - Estimation
 
-Many times, we work on something that is completly new from our past experiences, estimating those and adding to the task board always goes wrong.
+Many times, we work on something that is completly new from our past experiences, estimating those and adding to the task board doens't help much.
 
 ## 4th challenge - Pressure
 
