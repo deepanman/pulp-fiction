@@ -2,7 +2,7 @@
 
 ## 1st challenge - Software quality
 
-- One thing and the most important thing, at the end of the sprint is to deliver the high quality/production ready.
+- One thing and the most important thing, at the end of the sprint is to deliver the high quality/production ready deliverables.
 - Most of the times this is missed and later the issues comes & bites us back.
 
 ## 2nd challenge - Commitment
@@ -30,17 +30,15 @@ on the board is a constant reminder to get it to done bucket
 Like how Simon Sinek's says in one of the talk - how we are pulled towards the triggers of dopamine
 with the number of likes and other comments , which gives the feeling of reward.
 
-## 5th Challenge Motivation factor
+## 5th Challenge - Motivation factor
 
 ### Retrospection
 
 One of the finest motivation factor which I observed is the retrospection meeting.
 It lifts the morale of the team.
 
-#### Agenda of the Retrospect meeting
-
-1. Starting with appreciating each and every good work done by the team.
-2. Discuss about things that could have done better.
+1. Starting with appreciating each and every good work done by the team. 
+2. Discuss about things that could have been done better.
 
 > It had a very huge imapact.
 
